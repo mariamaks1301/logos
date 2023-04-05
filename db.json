@@ -1,0 +1,435 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "image": "https://fishminsk.by/wp-content/uploads/2021/11/IMG_3810.jpg",
+      "title": "Морской окунь",
+      "description": "С гарниром из спаржи",
+      "price": 900,
+      "weight": 400,
+      "protein": 20.23,
+      "fats": 2.63,
+      "carbohydrates": 3.35,
+      "calories": 196,
+      "categories": "fish"
+    },
+    {
+      "id": 3,
+      "image": "https://img.delicious.com.au/DNRh78_N/w759-h506-cfill/del/2015/10/duck-breast-with-soba-noodles-and-mango-14750-1.jpg",
+      "title": "Паста с мясом гуся",
+      "description": "Фаршированный зелеными  яблоками",
+      "price": 7900,
+      "weight": 2400,
+      "protein": 20.23,
+      "fats": 2.63,
+      "carbohydrates": 3.35,
+      "calories": 234,
+      "categories": "meat"
+    },
+    {
+      "id": 4,
+      "image": "https://img.delicious.com.au/MmLGEEID/del/2015/10/duck-legs-braised-in-pinot-noir-12014-1.jpg",
+      "title": "Утка в карамели",
+      "description": "С гарниром из зеленого горошка",
+      "price": 3230,
+      "weight": 2100,
+      "protein": 17.23,
+      "fats": 7.63,
+      "carbohydrates": 22.35,
+      "calories": 234,
+      "categories": "meat"
+    },
+    {
+      "id": 5,
+      "image": "https://img.delicious.com.au/aHx-7eC6/w759-h506-cfill/del/2019/02/speedy-spiced-pumpkin-soup-102067-2.jpg",
+      "title": "Суп пюре",
+      "description": "Чечевичный суп пюре с хрустящими крутонами",
+      "price": 3230,
+      "weight": 2100,
+      "protein": 17.23,
+      "fats": 7.63,
+      "carbohydrates": 22.35,
+      "calories": 234,
+      "categories": "soup"
+    },
+    {
+      "id": 8,
+      "image": "https://img.delicious.com.au/pJ3ngMAO/w759-h506-cfill/del/2015/10/new-meat-and-three-veg-17151-2.jpg",
+      "title": "Салат",
+      "description": "Овощной салат со свеклой, зеленью, заправлен апельсиновым соусом",
+      "price": 3230,
+      "weight": 2100,
+      "protein": 17.23,
+      "fats": 7.63,
+      "carbohydrates": 22.35,
+      "calories": 234,
+      "categories": "cold"
+    },
+    {
+      "id": 9,
+      "image": "https://img.delicious.com.au/05m1DrnF/w759-h506-cfill/del/2018/06/chilean-meat-pie-81974-2.jpg",
+      "title": "Мясо по французски",
+      "description": "Индивидуальный рецепт из сочетания классических продуктов с сырной корочкой",
+      "price": 3230,
+      "weight": 2100,
+      "protein": 17.23,
+      "fats": 7.63,
+      "carbohydrates": 22.35,
+      "calories": 234,
+      "categories": "branded"
+    },
+    {
+      "id": 10,
+      "image": "https://img.delicious.com.au/h5wTP8ov/del/2022/02/grilled-zucchini-with-spiced-chickpea-salsa-163336-2.jpg",
+      "title": "Радужный салат",
+      "description": "Зелень, баклажаны и кабачки на гриле, украшены сочным гранатом и ссыром под соусом песто",
+      "price": 3230,
+      "weight": 2100,
+      "protein": 17.23,
+      "fats": 7.63,
+      "carbohydrates": 22.35,
+      "calories": 234,
+      "categories": "cold"
+    },
+    {
+      "id": 11,
+      "image": "https://as1.ftcdn.net/v2/jpg/02/14/84/16/1000_F_214841638_yQNZPOM3PnVFRyA1VFPBtkGwy0lMojvd.jpg",
+      "title": "Салат из руколы",
+      "description": "Освежающий салат из руколы с добавлением апельсинов, грейпфрута и гранат под оливково-цитрусовым соусом",
+      "price": 3230,
+      "weight": 2100,
+      "protein": 17.23,
+      "fats": 7.63,
+      "carbohydrates": 22.35,
+      "calories": 234,
+      "categories": "cold"
+    },
+    {
+      "id": 12,
+      "image": "https://hotel-attache.ru/files/2019/03/20190324205541_dsc-2685__large.jpg",
+      "title": "Ягненок на вертиле",
+      "description": "Зажарен до хрустящей корочки",
+      "price": 3230,
+      "weight": 2100,
+      "protein": 17.23,
+      "fats": 7.63,
+      "carbohydrates": 22.35,
+      "calories": 234,
+      "categories": "meat"
+    },
+    {
+      "id": 13,
+      "image": "https://www.kulina.ru/images/art/67440.jpg",
+      "title": "Утка с яблоками",
+      "description": "Классический рецепт утки так полюбившийся многим",
+      "price": 3230,
+      "weight": 2100,
+      "protein": 17.23,
+      "fats": 7.63,
+      "carbohydrates": 22.35,
+      "calories": 234,
+      "categories": "meat"
+    },
+    {
+      "id": 14,
+      "image": "https://3.bp.blogspot.com/-kOI4BS2Ax1o/WfNTWtEnVtI/AAAAAAAAA2A/__aEJ5ZAKzUjxXJbdjER2AdgubIp7xFtgCLcBGAs/s1600/osetr.jpg",
+      "title": "Белуга",
+      "description": "Белуга запеченная",
+      "price": 3230,
+      "weight": 2100,
+      "protein": 17.23,
+      "fats": 7.63,
+      "carbohydrates": 22.35,
+      "calories": 234,
+      "categories": "fish"
+    },
+    {
+      "id": 15,
+      "image": "./assets/product/menu4.png",
+      "title": "Мясные рулутики",
+      "description": "Мясные рулетики",
+      "price": 3230,
+      "weight": 2100,
+      "protein": 17.23,
+      "fats": 7.63,
+      "carbohydrates": 22.35,
+      "calories": 234,
+      "categories": "meat"
+    },
+    {
+      "title": "Крем-суп из картофеля и лука-порея ",
+      "image": "https://mir24.tv/uploaded/images/2018/March/5e831bd7393ec637fed1b039fa4e2e89be6dd5cd73fc972675814c0c9b31f6ae.jpg",
+      "description": "Этот нежный крем-суп из грузинского кафе-сыроварни «Мама Гочи»  очень сытный, с мягкой текстурой и густой консистенцией.",
+      "price": "550",
+      "weight": "344",
+      "protein": "8",
+      "fats": "5",
+      "carbohydrates": "10",
+      "categories": "soup",
+      "calories": 117,
+      "id": 16
+    },
+    {
+      "title": "Шечаманди",
+      "image": "https://imgtest.mir24.tv/uploaded/images/2018/March/7996389b249ebfb41cdafa37e609b4541e3bcdf84bd2b1be1dafe42dbdb4d54e.jpg",
+      "description": "Суп из шпината на сливках",
+      "price": "450",
+      "weight": "320",
+      "protein": "4",
+      "fats": "7",
+      "carbohydrates": "9",
+      "categories": "soup",
+      "calories": 115,
+      "id": 17
+    },
+    {
+      "title": "Колокифосупа",
+      "image": "https://mir24.tv/uploaded/images/2018/March/c093138878e9d71a00f93adc36e363f6db792985fb9ca4f341e8ee063fc89c74.jpg",
+      "description": "Греческий тыквенный суп ",
+      "price": "450",
+      "weight": "316",
+      "protein": "10",
+      "fats": "6",
+      "carbohydrates": "9",
+      "categories": "soup",
+      "calories": 130,
+      "id": 18
+    },
+    {
+      "title": "Том ям",
+      "image": "https://mir24.tv/uploaded/images/2018/March/b2860cd056d9319f41bc8ab172a496e3f5d2756a8a7121387d9cfd34c375d392.jpg",
+      "description": "Необыкновенно яркий по вкусу паназиатский суп с морепродуктами",
+      "price": "650",
+      "weight": "320",
+      "protein": "9",
+      "fats": "8",
+      "carbohydrates": "10",
+      "categories": "soup",
+      "calories": 148,
+      "id": 19
+    },
+
+    {
+      "title": "Лосось",
+      "image": "https://i.lefood.menu/wp-content/uploads/w_images/2021/10/recept-11019-620x412.jpg",
+      "description": "С гарниром из шпината",
+      "price": "750",
+      "weight": "196",
+      "protein": "22",
+      "fats": "8",
+      "carbohydrates": "6",
+      "categories": "fish",
+      "calories": 184,
+      "id": 22
+    },
+
+    {
+      "title": "Лимонад фруктовый",
+      "image": "https://n1s1.hsmedia.ru/3f/c2/f0/3fc2f0cd339cad67b5f3e36bd5dd9f03/728x546_1_1f43f4ef57fb3400128c2b2cc1ca2520@1706x1280_0xac120003_16059982531655077987.jpeg",
+      "description": "Лимонад из свежих фруктов и содовой",
+      "price": 250,
+      "weight": "295",
+      "protein": "2",
+      "fats": "0",
+      "carbohydrates": "1",
+      "categories": "drinks",
+      "calories": 12,
+      "id": 24
+    },
+    {
+      "title": "Milkshake",
+      "image": "https://tea.ua/upload/blog/0122/2601/milkcoct/1.png",
+      "description": "Клубничный молочный коктейль",
+      "price": 250,
+      "weight": "245",
+      "protein": "4",
+      "fats": "4",
+      "carbohydrates": "6",
+      "categories": "drinks",
+      "calories": 76,
+      "id": 25
+    },
+    {
+      "title": "Карпаччо из говядины",
+      "image": "https://rklaguna.ru/a/rklaguna/files/multifile/2353/PZHK1315.JPG",
+      "description": "Карпаччо из говядины",
+      "price": 550,
+      "weight": "80",
+      "protein": "18",
+      "fats": "12",
+      "carbohydrates": "0",
+      "categories": "cold",
+      "calories": 180,
+      "id": 26
+    },
+    {
+      "title": "Латте",
+      "image": "https://coffee61.ru/wa-data/public/photos/68/03/368/368.970.jpg",
+      "description": "Кофе с молоком",
+      "price": 250,
+      "weight": "300",
+      "protein": "4",
+      "fats": "5",
+      "carbohydrates": "2",
+      "categories": "drinks",
+      "calories": 69,
+      "id": 27
+    },
+    {
+      "title": "Американо",
+      "image": "https://coffee-biz.ru/wp-content/uploads/2019/02/kofe-amerikano3.png",
+      "description": "Кофе американо",
+      "price": 180,
+      "weight": "200",
+      "protein": "0",
+      "fats": "0",
+      "carbohydrates": "1",
+      "categories": "drinks",
+      "calories": 4,
+      "id": 28
+    },
+    {
+      "title": "Сырники со сметаной",
+      "image": "https://nambafood.kg/dish_image/116469.png",
+      "description": "Ароматный твороженный завтрак",
+      "price": "269",
+      "weight": "200",
+      "protein": "15",
+      "fats": "9",
+      "carbohydrates": "7",
+      "categories": "hot",
+      "calories": 169,
+      "id": 29
+    },
+    {
+      "title": "Рибай",
+      "image": "https://ferma-m2.ru/images/shop/recipe_image/crop_1_1_2.jpg",
+      "description": "Нежное стейк-филе обжаренное по Вашему пожеланию",
+      "price": "950",
+      "weight": "350",
+      "protein": "22",
+      "fats": "9",
+      "carbohydrates": "0",
+      "categories": "meat",
+      "calories": 169,
+      "id": 30
+    },
+    {
+      "title": "Стейк Тибон",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/2d/f2/e3/640.jpg",
+      "description": "С запеченным картофелем",
+      "price": "950",
+      "weight": "380",
+      "protein": "22",
+      "fats": "4",
+      "carbohydrates": "10",
+      "categories": "meat",
+      "calories": 164,
+      "id": 31
+    }
+  ],
+  "users": [
+    {
+      "email": "maria@mail.ru",
+      "password": "$2a$10$6CGBQzMSgLtaEOQW3Ugi9OI/jf3YJqPzOzYeuiTpdVGtkTViqZZW6",
+      "id": 1
+    }
+  ],
+  "sales": [
+    {
+      "id": 1,
+      "image": "./assets/sales/1.png",
+      "title": "Без мяса? Здесь!",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту»,пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 2,
+      "image": "./assets/sales/2.png",
+      "title": "Выгодное комбо c напитками",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту»,пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 3,
+      "image": "./assets/sales/3.png",
+      "title": "Сырный бортик",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту»,пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 4,
+      "image": "./assets/sales/2.png",
+      "title": "Выгодное комбо c напитками",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту»,пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 5,
+      "image": "./assets/sales/3.png",
+      "title": "Сырный бортик",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту»,пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 6,
+      "image": "./assets/sales/1.png",
+      "title": "Без мяса? Здесь!",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту»,пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 7,
+      "image": "./assets/sales/3.png",
+      "title": "Сырный бортик",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту»,пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 8,
+      "image": "./assets/sales/1.png",
+      "title": "Без мяса? Здесь!",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту»,пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    },
+    {
+      "id": 9,
+      "image": "./assets/sales/2.png",
+      "title": "Выгодное комбо c напитками",
+      "description": "Самое время попробовать «Сырную» пиццу, «Маргариту»,пиццу «Овощи и грибы», Пасту Четыре сыра, Томатный суп с гренками, Грибной Стартер, Рулетики с сыром, Картофель из печи, Картофельные оладьи или Греческий салат. Выберите свой вкус!",
+      "date": "до 31 июля."
+    }
+  ],
+  "delivery": [
+    {
+      "id": 1,
+      "title": "У наших курьеров всегда должна быть сдача!",
+      "answer": "Мы очень внимательно следим за качеством нашей работы, поэтому, если у вас будут какие-либо замечания или предложения, то обязательно сообщайте их нам"
+    },
+    {
+      "id": 2,
+      "title": "Вам что-то не довезли?",
+      "answer": "Мы очень внимательно следим за качеством нашей работы, поэтому, если у вас будут какие-либо замечания или предложения, то обязательно сообщайте их нам"
+    },
+    {
+      "id": 3,
+      "title": "Не понравился продукт?",
+      "answer": "Мы очень внимательно следим за качеством нашей работы, поэтому, если у вас будут какие-либо замечания или предложения, то обязательно сообщайте их нам"
+    },
+    {
+      "id": 4,
+      "title": "Если появились замечания",
+      "answer": "Мы очень внимательно следим за качеством нашей работы, поэтому, если у вас будут какие-либо замечания или предложения, то обязательно сообщайте их нам"
+    },
+    {
+      "id": 5,
+      "title": "Оплата Visa, MasterCard и МИР",
+      "answer": "Мы очень внимательно следим за качеством нашей работы, поэтому, если у вас будут какие-либо замечания или предложения, то обязательно сообщайте их нам"
+    },
+    {
+      "id": 6,
+      "title": "Реквизиты",
+      "answer": "Мы очень внимательно следим за качеством нашей работы, поэтому, если у вас будут какие-либо замечания или предложения, то обязательно сообщайте их нам"
+    }
+  ]
+}

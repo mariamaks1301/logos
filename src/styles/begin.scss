@@ -1,0 +1,37 @@
+.begin{
+    padding: 100px 0 150px;
+    background: url(../assets/images/beginBg.png) center/cover no-repeat;
+    &__content{
+       transform: rotate(-8.37deg);
+        max-width: 613px;
+        width: 100%;
+        text-align: center;
+    }
+    &__title{
+        text-transform: uppercase;
+        font-style: italic;
+        font-weight: 600;
+        font-size: 50px;
+        line-height: 109.2%;
+        text-align: center;
+        margin-bottom: 20px;
+        
+
+    }
+    &__subtitle{
+        font-style: italic;
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 109.2%;
+        text-align: center;
+        color: #FFFFFF;
+        background: linear-gradient(114.93deg, #618967 5.11%, #72A479 94%);
+        padding: 6px 8px;
+        
+
+
+    }
+
+
+
+}
