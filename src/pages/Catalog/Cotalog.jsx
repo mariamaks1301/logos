@@ -62,7 +62,7 @@ const Cotalog = () => {
                         
                         <CategoySelect/>
                         <OrderSelect order={order} setOrder={setOrder}/>
-                        <TitleSearch title={title} setTitle={setTitle}/>
+                        {/* <TitleSearch title={title} setTitle={setTitle}/> */}
                     </aside>
                     <div className="cotalog__right">
                         <div>
