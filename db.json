@@ -143,19 +143,7 @@
       "calories": 234,
       "categories": "fish"
     },
-    {
-      "id": 15,
-      "image": "./assets/product/menu4.png",
-      "title": "Мясные рулутики",
-      "description": "Мясные рулетики",
-      "price": 3230,
-      "weight": 2100,
-      "protein": 17.23,
-      "fats": 7.63,
-      "carbohydrates": 22.35,
-      "calories": 234,
-      "categories": "meat"
-    },
+ 
     {
       "title": "Крем-суп из картофеля и лука-порея ",
       "image": "https://mir24.tv/uploaded/images/2018/March/5e831bd7393ec637fed1b039fa4e2e89be6dd5cd73fc972675814c0c9b31f6ae.jpg",
