@@ -8,8 +8,8 @@ import { Context } from './utils/Context';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-    <BrowserRouter basename="/calendar">
-        <Link to="/today"/> 
+    <BrowserRouter basename="/logos">
+        <Link to="/logos"/> 
           <Context>
                   <App />
           </Context>
